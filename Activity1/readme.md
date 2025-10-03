@@ -17,4 +17,4 @@ The files present in this sub repositories listed below are:
 
 . A folder containing  user story maps created using stories on board both the pdf and png format
 
-.It also contains a summazrized notes from scheduled customer/ team check-ins
+
