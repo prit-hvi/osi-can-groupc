@@ -1,1 +1,1 @@
-# osi-can-groupc
+# ENSE 271 GROUP C Repository
