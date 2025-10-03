@@ -16,3 +16,5 @@ Prithvi Patel
 This Project is grouped into Four Activities:
 
    The first activity  which is Activity 1 is the initial activity we had. It's our initial activity in which we meeting the client and presented our low fedelity prototype, navigation site map and other information which you can learn more about by clicking the Activity 1 page in the repository.
+
+It also contains a summazrized notes from all scheduled customer check-ins
