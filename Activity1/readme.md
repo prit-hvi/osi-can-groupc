@@ -9,7 +9,7 @@ The files present in this sub repositories listed below are:
 
 .  The sub repository also includes a groupig of  empaathy mapping samples and alspo the final empathy map sample
 
-.  An affinity diagram used to organise and for brainstorming
+.  An affinity diagram used to organising and  brainstorming
 
 . A folder containing our site map samples for navigation which were shown to the client also has insites in a md file.
 
