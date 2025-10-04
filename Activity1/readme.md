@@ -7,7 +7,7 @@ The files present in this sub repositories listed below are:
 
 .  A document outlinig the team members of the group, the summarized project background, Northstar customers, carryover customers and other project detials such as assumptions and constraints
 
-.  The sub repository also includes a groupig of  empaathy mapping samples and alspo the final empathy map sample
+.  The sub repository also includes a groupig of  empaathy mapping samples and also the final empathy map sample
 
 .  An affinity diagram used to organising and  brainstorming
 
