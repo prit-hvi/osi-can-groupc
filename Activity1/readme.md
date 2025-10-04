@@ -11,7 +11,7 @@ The files present in this sub repositories listed below are:
 
 .  An affinity diagram used to organise and for brainstorming
 
-. A folder containing our site map samples for navigation which were shown to the client
+. A folder containing our site map samples for navigation which were shown to the client also has insites in a md file.
 
 . A folder containing low fedelity prototypes created by the group memebers in other to get an idea of what the clients might prefer or want
 
