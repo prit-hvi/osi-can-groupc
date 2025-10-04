@@ -2,7 +2,12 @@
 
 ## Prototype 1
 **Strengths**
+* Good balance of services and infromation
+* Focused on content
+  
 **Weaknesses**
+* Lacks crisis supoort
+* Some FAQ's content is under different tab
 
 ## Prototype 2
 **Strengths**
