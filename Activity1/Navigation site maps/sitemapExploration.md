@@ -10,7 +10,14 @@
 
 ## Prototype 3
 **Strengths**
+* Comperhensive content is covered
+* Good seperation
+* Well organized user paths
+
 **Weaknesses**
+* May be a bit overwhelming for users who are in crisis
+* Complex navigation for some user base(ie: elder veterans)
+* FAQ is burried under "Other" category
 
 ## Prototype 4
 **Strengths**
