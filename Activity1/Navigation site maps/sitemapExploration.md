@@ -6,7 +6,14 @@
 
 ## Prototype 2
 **Strengths**
+* Well balanced structure
+* Clear donation Pathway
+* Good separation between programs and events
+
 **Weaknesses**
+* Combined program and events might confuse some users
+* Contact information not featured
+* No dedicated "Get help" button
 
 ## Prototype 3
 **Strengths**
