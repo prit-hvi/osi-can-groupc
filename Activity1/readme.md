@@ -1,4 +1,4 @@
-# Activity 1 Readme.md
+# Activity 1(Low fidelity Exploriation and initial design plan) Readme.md
 This is sub repository containing the project insights and designs used for the initial project planning and meeting with the customers which is (OSCI-CAN)
 
 This is a group of different files and documents used in achieveing the first activity of building the project
