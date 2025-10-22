@@ -15,6 +15,6 @@ Prithvi Patel
 
 This Project is grouped into Four Activities:
 
-   The first activity  which is Activity 1 is the initial activity we had. It's our initial activity in which we met with the client and presented our low fedelity prototype, navigation site map and other information which you can learn more about by clicking the Activity 1 folder in the repository.
+The first activity  which is Activity 1 is the initial activity we had. It's our initial activity in which we met with the client and presented our low fedelity prototype, navigation site map and other information which you can learn more about by clicking the Activity 1 folder in the repository.
 
-
+The secong activity which is Activity 2 This is our second activity where we explored high fidelity prototypes and designed a fully intercative model using figma. More inormation can be gotten by clicking on activity 2
