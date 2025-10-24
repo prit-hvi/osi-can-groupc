@@ -4,11 +4,11 @@ This is sub repository containing the project high fidelity prototype (interacti
 This is a group of different files and documents used in achieveing the HFP(High fidelity protoype) project outcome and insights
 
 The files present in this sub repositories listed below are:
-.A folder containing our high fidelity prototype design pdf format and fig.
+.A folder containing our high fidelity desktop prototype design pdf format and fig.
 
 . The sub repository also includes our projects inisghts document used in designing the High fidelity protoype
 
-. 
+. A folder containing our high fidelity mobile design prototype pdf format and fig.
 
 . A jpeg version of our usability questionaire
 
