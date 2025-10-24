@@ -12,8 +12,11 @@ The files present in this sub repositories listed below are:
 
 . A jpeg version of our usability questionaire
 
+. A mobile usability questionaire word document with answers gotten from users.
+
 . A document containing our design ideas for our HFP's using principles of people centered design
 
 . A folder containing user story maps created using stories on board both the pdf and png format
 
-. It also contains a document containing both our usability questionaire and also general design questions with some answer gotten from users
+
+Extra note: We were not sure if we were to upload usability questionaire for desktop and mobile so we just uploaded only for mobile just to be on a safe side
