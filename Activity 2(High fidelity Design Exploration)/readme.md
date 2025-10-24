@@ -8,7 +8,7 @@ The files present in this sub repositories listed below are:
 
 . The sub repository also includes our projects inisghts document used in designing the High fidelity protoype
 
-. A folder containing our high fidelity mobile design prototype pdf format and fig.
+. A folder containing our high fidelity mobile prototype design pdf format and fig.
 
 . A jpeg version of our usability questionaire
 
@@ -16,4 +16,4 @@ The files present in this sub repositories listed below are:
 
 . A folder containing user story maps created using stories on board both the pdf and png format
 
-.  It also contains a document containing both our usability questionaire and also general design questions with some answer gotten from users
+. It also contains a document containing both our usability questionaire and also general design questions with some answer gotten from users
