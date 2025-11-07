@@ -1,4 +1,4 @@
-High fidelity Exploration readme.md file
+# High fidelity Exploration readme.md file
 This is sub repository containing the project high fidelity prototype (interactive design prototype) which shows a visual and interacvtive prototype of our website design which was also presented to the customers which is still (OSCI-CAN)
 
 This is a group of different files and documents used in achieveing the HFP(High fidelity protoype) project outcome and insights
