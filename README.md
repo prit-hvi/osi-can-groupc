@@ -20,3 +20,5 @@ The first activity  which is Low fidelity Exploration and initial design plan is
 The secong activity which is High fidelity Design Principles and Exploration This is our second activity where we explored high fidelity prototypes and designed a fully intercative model using figma. More inormation can be gotten by clicking on the  High fidelity Design Principles and Exploration sub repository
 
 The third activity which is WordPress Website Design In-Progress Customer Check-in This is our third activity where we presented our wordpress design to our customers and collected reviews on the design we implemented.
+
+The fourth activity which is our final presenation contains our full report of the for all the activity and priciples explored in the project building
